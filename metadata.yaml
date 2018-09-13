@@ -1,0 +1,25 @@
+_repo: Kepponen-Huvinaytelma-kahdessa-naytoksessa_51504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lundquist, Ernst
+    birthdate: 1851
+    deathdate: 1938
+    gutenberg_agent_id: '46437'
+    url: http://www.gutenberg.org/2009/agents/46437
+    wikipedia: https://sv.wikipedia.org/wiki/Ernst_Lundquist
+description: ''
+gutenberg_issued: '2016-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51504'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- GITenberg
+title: 'Kepponen: Huvinäytelmä kahdessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/51504
